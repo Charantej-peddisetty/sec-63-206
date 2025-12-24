@@ -1,2 +1,2 @@
-This file is edited in notes-branch.
-Branch helps us work separately without affecting main.
+This project demonstrates basic Git operations.
+ charan tej
